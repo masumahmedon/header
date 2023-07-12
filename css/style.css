@@ -1,0 +1,32 @@
+header{
+    background-color: #89cfc2;
+}
+.container{
+	width: 1200px;
+	padding: 21px 40px;
+	height: 112px;
+}
+.logo{
+	width: 20%;
+	float: left;
+	}
+.logo a{}
+.menu{
+	width: 80%;
+	float: left;
+	justify-content: flex-end;
+}
+.menu ul{
+    display: flex;
+    justify-content: flex-end;
+}
+.menu ul li{
+    justifyli-content: normal;
+    list-style: none;
+}
+.menu ul li a{
+    text-decoration: none;
+    font-size: 22px;
+    padding: 10px;
+}
+
